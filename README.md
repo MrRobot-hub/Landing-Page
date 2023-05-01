@@ -3,6 +3,10 @@
 This is a landing page made for : The Odin Project ! ,
 url: https://www.theodinproject.com/
 
+live preview:
+
+https://shkelzen-hub.github.io/Landing-Page/
+
  # Credits
 
  Images Credits:
