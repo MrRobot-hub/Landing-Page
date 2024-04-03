@@ -5,7 +5,7 @@ url: https://www.theodinproject.com/
 
 live preview:
 
-https://shkelzen-hub.github.io/Landing-Page/
+https://shkelzen-dev.github.io/Landing-Page/
 
  # Credits
 
